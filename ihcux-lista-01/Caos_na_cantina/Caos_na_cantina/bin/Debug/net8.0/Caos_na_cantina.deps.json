@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Caos_na_cantina/1.0.0": {
+        "runtime": {
+          "Caos_na_cantina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caos_na_cantina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

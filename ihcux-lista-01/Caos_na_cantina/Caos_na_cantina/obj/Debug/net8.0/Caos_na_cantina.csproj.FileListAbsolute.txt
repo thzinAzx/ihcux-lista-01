@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\bin\Debug\net8.0\Caos_na_cantina.exe
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\bin\Debug\net8.0\Caos_na_cantina.deps.json
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\bin\Debug\net8.0\Caos_na_cantina.runtimeconfig.json
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\bin\Debug\net8.0\Caos_na_cantina.dll
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\bin\Debug\net8.0\Caos_na_cantina.pdb
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.AssemblyInfo.cs
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.dll
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\refint\Caos_na_cantina.dll
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.pdb
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\Caos_na_cantina.genruntimeconfig.cache
+C:\Users\Thiago\Documents\ESCOLA\Faculdade UNA\Lista 01 - Heurística - Cantina - Interface Console\Caos_na_cantina\Caos_na_cantina\obj\Debug\net8.0\ref\Caos_na_cantina.dll
